@@ -579,7 +579,7 @@ CodeGrade! You now know how to work on and submit assignments going forward:
 
 - Click the **OctoCat** button on the Canvas assignment, then the **Fork**
   button on the repo page.
-- Once the assignment is forked, clone it down to your local machine.
+- Once the assignment is forked, clone it down to your local machine
 - Run `npm install` to download the tools required to run the tests for the
   assignment.
 - Run `npm test` to see what tests you have to pass. Run the command as many
